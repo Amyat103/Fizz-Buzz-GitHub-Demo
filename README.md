@@ -1,0 +1,1 @@
+A program that prints the number 1 to 100. But for multiples of three prints "Fizz" and multiple of five prints "buzz". Prints "FizzBuzz" for numbers multiples by both three and five.
